@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash R Chandran</h1>
-<h3 align="center">I live in dreams</h3>
+<h3 align="center">I am a newbie here</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
